@@ -1,0 +1,16 @@
+.titulo{
+    text-align: center ;
+    body{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+}
+
+.menu{
+padding: 20px;
+background-color: rgb(31, 4, 95);
+width: 100% ;
+}
+.tabla{
+    width: 80% ;
+    margin: 40cm;
+}
