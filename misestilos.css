@@ -5,13 +5,14 @@ body{
 
 
 .titulo{
+    color: rgb(3, 22, 75);
     text-align:center ;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .menu{
     padding: 20px;
-    background-color: #f89719;
+    background-color: #f87219;
     
 }
 
